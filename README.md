@@ -64,10 +64,10 @@ Our model employs the **Extreme Inception (Xception)** architecture, a linear st
 
 ### Training Strategy
 
-- **Epochs**: 30
+- **Epochs**: 15
 - **Loss Function**: Mean Squared Error (MSE) Loss
 - **Optimizer**: Adam
-- **Learning Rate**: 0.00075
+- **Learning Rate**: 0.0008
 - **Batch Size**: 32
 - **Checkpointing**: Saves the best model during training to avoid overfitting.
 - **Evaluation Metric**: Euclidean distance between predicted and true landmark positions.
