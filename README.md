@@ -144,8 +144,10 @@ Facial landmark detection has several real-world applications, including:
 - François Chollet, "Xception: Deep Learning with Depthwise Separable Convolutions", CVPR 2017. [Paper](https://arxiv.org/abs/1610.02357)
 - Christian Szegedy et al., "Rethinking the Inception Architecture for Computer Vision", CVPR 2016. [Paper](https://arxiv.org/abs/1512.00567)
 
-## Project Overview & Demo
+## Project Links
 
-🔗 **Live Demo**: [Facial Landmarks Detection Web App](https://sameer-badami-facial-landmarks-detection-static.streamlit.app/)  
-📄 **Project Summary**: [Read about the project on LinkedIn](https://www.linkedin.com/posts/ivlabs-vnit_ivlabs-vnit-teamwork-activity-7276929542571667456-ifua?utm_source=share&utm_medium=member_desktop&rcm=ACoAAES9jMQBGVJ8zdNRf5oeTInRSB9cQsMW_pk)
+- [Facial Landmarks Detection - Streamlit App](https://sameer-badami-facial-landmarks-detection-static.streamlit.app/)
+- [IvLabs Project Webpage](https://ivlabs.in/facial-landmarks-detection/)
+- [Project Video on LinkedIn](https://www.linkedin.com/posts/ivlabs-vnit_ivlabs-vnit-teamwork-activity-7276929542571667456-ifua?utm_source=share&utm_medium=member_desktop&rcm=ACoAAES9jMQBGVJ8zdNRf5oeTInRSB9cQsMW_pk)
+
 
