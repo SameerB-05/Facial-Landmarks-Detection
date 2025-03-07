@@ -6,7 +6,6 @@ Develop a high-performance model for precise facial key point detection in image
 
 - Face recognition
 - Emotion detection
-- Virtual makeup
 - Augmented reality (AR)
 - Biometric identity verification
 - Driver attention tracking for road safety
