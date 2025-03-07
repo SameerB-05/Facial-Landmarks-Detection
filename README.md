@@ -113,9 +113,10 @@ Our model employs the **Extreme Inception (Xception)** architecture, a linear st
 
 ### Training Metrics
 
-![Cost vs Epochs](https://raw.githubusercontent.com/SameerB-05/Facial-Landmarks-Detection/main/Pics_for_FLDRepo/cost_vs_epochs.png)
-
-![Model Accuracy](https://raw.githubusercontent.com/SameerB-05/Facial-Landmarks-Detection/main/Pics_for_FLDRepo/model_accuracy.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SameerB-05/Facial-Landmarks-Detection/main/Pics_for_FLDRepo/cost_vs_epochs.png" width="45%">
+  <img src="https://raw.githubusercontent.com/SameerB-05/Facial-Landmarks-Detection/main/Pics_for_FLDRepo/model_accuracy.png" width="45%">
+</p>
 
 ## Applications
 
