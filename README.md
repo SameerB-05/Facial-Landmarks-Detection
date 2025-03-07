@@ -133,7 +133,6 @@ Facial landmark detection has several real-world applications, including:
 - Matplotlib
 - Streamlit
 - OpenCV
-
    ```
 
 
