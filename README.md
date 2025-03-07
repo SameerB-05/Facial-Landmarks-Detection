@@ -52,7 +52,9 @@ Develop a high-performance model for precise facial key point detection in image
 ### Overview
 
 Our model employs the **Extreme Inception (Xception)** architecture, a linear stack of depthwise separable convolution layers with residual connections. This design hypothesis suggests that cross-channel and spatial correlations in feature maps can be entirely decoupled.
+
 ![Xception Architecture](https://github.com/SameerB-05/Facial-Landmarks-Detection/blob/main/Pics_for_FLDRepo/XceptionArchitecture.png)
+
 ### Enhancements
 
 - **Depthwise Separable Convolutions**: Reduces computational cost while maintaining high accuracy.
